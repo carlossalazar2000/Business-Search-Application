@@ -1,0 +1,4 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyAdCrrOAe_R8oFhuCqMOU3xR99VhzNWUcQ</string>
+    <string name="app_name">Business Search App"</string>
+</resources>
