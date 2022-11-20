@@ -3,9 +3,11 @@
 <h3 align="left">About</h3>
 <p>This is a business search app that allows user, whether signed in or not, to conduct searches for businesses based on the business name or type and location.</p>
 
-<img src="https://github.com/Commando20/COP4655/blob/FinalProject/Final%20Project/app/screenshots/homescreen.JPG" width="200" height="400" align="left"/>
-<img src="https://github.com/Commando20/COP4655/blob/FinalProject/Final%20Project/app/screenshots/result.JPG" width="200" height="400" align="left"/>
-<img src="https://github.com/Commando20/COP4655/blob/FinalProject/Final%20Project/app/screenshots/favorites.JPG" width="200" height="400" align="left"/>
+
+
+<img src="https://github.com/carlossalazar2000/Business-Search-Application/tree/main/app/screenshots/homescreen.JPG" width="200" height="400" align="left"/>
+<img src="https://github.com/carlossalazar2000/Business-Search-Application/tree/main/app/screenshots/result.JPG" width="200" height="400" align="left"/>
+<img src="https://github.com/carlossalazar2000/Business-Search-Application/tree/main/app/screenshots/favorites.JPG" width="200" height="400" align="left"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
