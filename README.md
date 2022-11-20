@@ -5,9 +5,9 @@
 
 
 
-<img src="https://github.com/carlossalazar2000/Business-Search-Application/tree/main/app/screenshots/homescreen.JPG" width="200" height="400" align="left"/>
-<img src="https://github.com/carlossalazar2000/Business-Search-Application/tree/main/app/screenshots/result.JPG" width="200" height="400" align="left"/>
-<img src="https://github.com/carlossalazar2000/Business-Search-Application/tree/main/app/screenshots/favorites.JPG" width="200" height="400" align="left"/>
+<img src="https://github.com/carlossalazar2000/Business-Search-Application/blob/main/app/screenshots/homescreen.JPG" width="200" height="400" align="left"/>
+<img src="https://github.com/carlossalazar2000/Business-Search-Application/blob/main/app/screenshots/result.JPG" width="200" height="400" align="left"/>
+<img src="https://github.com/carlossalazar2000/Business-Search-Application/blob/main/app/screenshots/favorites.JPG" width="200" height="400" align="left"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
